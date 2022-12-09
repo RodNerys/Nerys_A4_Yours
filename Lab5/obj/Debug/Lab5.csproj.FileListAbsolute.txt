@@ -31,3 +31,14 @@ C:\Users\Noah\Desktop\Nerys_A4\Nerys_A4\Lab5\obj\Debug\Lab5.csproj.GenerateResou
 C:\Users\Noah\Desktop\Nerys_A4\Nerys_A4\Lab5\obj\Debug\Lab5.csproj.CoreCompileInputs.cache
 C:\Users\Noah\Desktop\Nerys_A4\Nerys_A4\Lab5\obj\Debug\Lab5.exe
 C:\Users\Noah\Desktop\Nerys_A4\Nerys_A4\Lab5\obj\Debug\Lab5.pdb
+C:\Users\Nerys\Documents\NBCC\Development Tools - COMC1000C\A4\Nerys_A4_Yours\Nerys_A4\Nerys_A4_Yours\Lab5\bin\Debug\Lab5.exe.config
+C:\Users\Nerys\Documents\NBCC\Development Tools - COMC1000C\A4\Nerys_A4_Yours\Nerys_A4\Nerys_A4_Yours\Lab5\bin\Debug\Lab5.exe
+C:\Users\Nerys\Documents\NBCC\Development Tools - COMC1000C\A4\Nerys_A4_Yours\Nerys_A4\Nerys_A4_Yours\Lab5\bin\Debug\Lab5.pdb
+C:\Users\Nerys\Documents\NBCC\Development Tools - COMC1000C\A4\Nerys_A4_Yours\Nerys_A4\Nerys_A4_Yours\Lab5\obj\Debug\Lab5.csproj.AssemblyReference.cache
+C:\Users\Nerys\Documents\NBCC\Development Tools - COMC1000C\A4\Nerys_A4_Yours\Nerys_A4\Nerys_A4_Yours\Lab5\obj\Debug\Lab5.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nerys\Documents\NBCC\Development Tools - COMC1000C\A4\Nerys_A4_Yours\Nerys_A4\Nerys_A4_Yours\Lab5\obj\Debug\Lab5.Form1.resources
+C:\Users\Nerys\Documents\NBCC\Development Tools - COMC1000C\A4\Nerys_A4_Yours\Nerys_A4\Nerys_A4_Yours\Lab5\obj\Debug\Lab5.Properties.Resources.resources
+C:\Users\Nerys\Documents\NBCC\Development Tools - COMC1000C\A4\Nerys_A4_Yours\Nerys_A4\Nerys_A4_Yours\Lab5\obj\Debug\Lab5.csproj.GenerateResource.cache
+C:\Users\Nerys\Documents\NBCC\Development Tools - COMC1000C\A4\Nerys_A4_Yours\Nerys_A4\Nerys_A4_Yours\Lab5\obj\Debug\Lab5.csproj.CoreCompileInputs.cache
+C:\Users\Nerys\Documents\NBCC\Development Tools - COMC1000C\A4\Nerys_A4_Yours\Nerys_A4\Nerys_A4_Yours\Lab5\obj\Debug\Lab5.exe
+C:\Users\Nerys\Documents\NBCC\Development Tools - COMC1000C\A4\Nerys_A4_Yours\Nerys_A4\Nerys_A4_Yours\Lab5\obj\Debug\Lab5.pdb

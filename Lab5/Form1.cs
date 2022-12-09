@@ -16,7 +16,7 @@ namespace Lab5
         //declare const by my name
         const string PROGRAMMER = "Rodrigo";
         //declare counter for login
-        int count = 1;
+        int count = 0;
         
 
         /* Name: GetRandom
@@ -123,7 +123,7 @@ namespace Lab5
         //radText check changed function
         private void radText_CheckedChanged(object sender, EventArgs e)
         {
-            ResetTextGrp();
+            SetupOption();
         }
         //radStats check changed function
         private void radStats_CheckedChanged(object sender, EventArgs e)
@@ -222,7 +222,7 @@ namespace Lab5
             double mean = Convert.ToDouble(sum) / howMany;
             lblMean.Text = mean.ToString("n");
 
-            lblOdd.Text = Convert.ToString(OddCount());
+            lblOdd.Text = Convert.ToString(CountOdd());
         }
         /* addList function
          * send: none
